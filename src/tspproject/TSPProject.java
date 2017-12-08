@@ -25,7 +25,7 @@ public class TSPProject {
 
         myGUI g = new myGUI();
             
-        /*CityList CL = new CityList(1000,1000){{
+       /* CityList CL = new CityList(1000,1000){{
             addCity(500, 500, "Central City");
             addCity(500, 0, "North City");
             addCity(500, 1000, "South City");
@@ -39,6 +39,7 @@ public class TSPProject {
             addCity(550, 10, "Lille");
         }};*/
         
+      
         
             
     }

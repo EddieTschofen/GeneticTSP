@@ -263,7 +263,7 @@ public class myGUI {
         JLabel lab;
         JLabel nameLab;
         for(City c : CL.getCityList()){            
-            lab = new JLabel(new ImageIcon("./src/tspproject/p.png"));
+            lab = new JLabel(new ImageIcon("./src/img/p.png"));
             lab.setLayout(null);
             lab.setBounds((int)c.getX()-5,(int)c.getY()-5,10,10);
             
